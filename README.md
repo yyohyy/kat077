@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Snake gif](https://github.com/kat077/kat077/blob/main/output/github-contribution-grid-snake.gif)
 <!--
 **kat077/kat077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
